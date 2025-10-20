@@ -29,3 +29,21 @@ Because someday, someone might find a snippet here and say,
 ## 📁 How It’s Organized
 
 You’ll find folders like:
+## 🗂️ Table of Contents
+
+- [Core Concepts](./core/)
+- [Intermediate Topics](./intermediate/)
+- [Advanced Techniques](./advanced/)
+- [Practice Challenges](./practice/)
+- [Projects](./projects/)
+
+Each section will grow as I do.
+
+---
+
+## 🤝 Let’s Connect
+
+Feel free to explore, fork, or drop a message if something here sparks your interest.  
+I’m always learning — and always open to collaboration, feedback, or just a good Python chat.
+
+Thanks for stopping by! 🙌
